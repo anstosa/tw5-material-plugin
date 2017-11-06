@@ -1,8 +1,8 @@
 {
     "title": "$:/plugins/anstosa/tw5-material",
-    "description": "Behavioral extras for Material theme",
+    "description": "Material Design theme extras",
     "author": "Ansel Santosa",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "core-version": ">=5.0.0",
     "source": "https://github.com/anstosa/tw5-material-plugin",
     "plugin-type": "plugin"
