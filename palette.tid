@@ -1,0 +1,9 @@
+title: $:/plugins/anstosa/tw5-material/palette
+name: Material
+description: Default palette for Material theme
+type: application/x-tiddler-dictionary
+tags: $:/tags/Palette
+
+primary: #2196f3
+foreground: rgba(0,0,0,0.87)
+button-background: #fff
